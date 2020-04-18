@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "DCFE23BC19DDCC2D00EF8EA9"
-               BuildableName = "libcapstone.a"
-               BlueprintName = "CapstoneStatic"
+               BlueprintIdentifier = "DC474F6719DE6F3B00BCA449"
+               BuildableName = "Capstone.framework"
+               BlueprintName = "CapstoneFramework"
                ReferencedContainer = "container:Capstone.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -43,9 +43,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DCFE23BC19DDCC2D00EF8EA9"
-            BuildableName = "libcapstone.a"
-            BlueprintName = "CapstoneStatic"
+            BlueprintIdentifier = "DC474F6719DE6F3B00BCA449"
+            BuildableName = "Capstone.framework"
+            BlueprintName = "CapstoneFramework"
             ReferencedContainer = "container:Capstone.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -59,9 +59,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DCFE23BC19DDCC2D00EF8EA9"
-            BuildableName = "libcapstone.a"
-            BlueprintName = "CapstoneStatic"
+            BlueprintIdentifier = "DC474F6719DE6F3B00BCA449"
+            BuildableName = "Capstone.framework"
+            BlueprintName = "CapstoneFramework"
             ReferencedContainer = "container:Capstone.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
